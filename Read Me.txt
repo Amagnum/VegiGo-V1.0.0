@@ -1,6 +1,0 @@
-npm install react-native-numeric-input react-native-vector-icons --save
-react-native link
-
-
-#############################
-npm install --save react-native-elements
