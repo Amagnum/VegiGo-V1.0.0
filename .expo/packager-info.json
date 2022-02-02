@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 14024,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://j9-e2m.anonymous.vegigo.exp.direct",
+  "packagerNgrokUrl": "https://packager.j9-e2m.anonymous.vegigo.exp.direct",
+  "ngrokPid": 6740,
+  "webpackServerPort": null
+}
